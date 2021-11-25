@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/iggi/static/css/main.58709263.chunk.css",
+    "main.js": "/iggi/static/js/main.5153addf.chunk.js",
+    "main.js.map": "/iggi/static/js/main.5153addf.chunk.js.map",
+    "runtime-main.js": "/iggi/static/js/runtime-main.3dae27a2.js",
+    "runtime-main.js.map": "/iggi/static/js/runtime-main.3dae27a2.js.map",
+    "static/js/2.ee83aea5.chunk.js": "/iggi/static/js/2.ee83aea5.chunk.js",
+    "static/js/2.ee83aea5.chunk.js.map": "/iggi/static/js/2.ee83aea5.chunk.js.map",
+    "index.html": "/iggi/index.html",
+    "static/css/main.58709263.chunk.css.map": "/iggi/static/css/main.58709263.chunk.css.map",
+    "static/js/2.ee83aea5.chunk.js.LICENSE.txt": "/iggi/static/js/2.ee83aea5.chunk.js.LICENSE.txt",
+    "static/media/Gallery-1.936e50c3.jpg": "/iggi/static/media/Gallery-1.936e50c3.jpg",
+    "static/media/Gallery-10.2c2ee7d7.jpg": "/iggi/static/media/Gallery-10.2c2ee7d7.jpg",
+    "static/media/Gallery-11.294c5fb3.jpg": "/iggi/static/media/Gallery-11.294c5fb3.jpg",
+    "static/media/Gallery-12.ffb7ecd4.jpg": "/iggi/static/media/Gallery-12.ffb7ecd4.jpg",
+    "static/media/Gallery-2.e0ffc98d.jpg": "/iggi/static/media/Gallery-2.e0ffc98d.jpg",
+    "static/media/Gallery-3.b58aa9f0.jpg": "/iggi/static/media/Gallery-3.b58aa9f0.jpg",
+    "static/media/Gallery-4.cd66d1b6.jpg": "/iggi/static/media/Gallery-4.cd66d1b6.jpg",
+    "static/media/Gallery-5.6c6aa8a5.jpg": "/iggi/static/media/Gallery-5.6c6aa8a5.jpg",
+    "static/media/Gallery-6.8beac7a2.jpg": "/iggi/static/media/Gallery-6.8beac7a2.jpg",
+    "static/media/Gallery-7.438ac82c.jpg": "/iggi/static/media/Gallery-7.438ac82c.jpg",
+    "static/media/Gallery-8.6317bbcc.jpg": "/iggi/static/media/Gallery-8.6317bbcc.jpg",
+    "static/media/Gallery-9.f2fcec10.jpg": "/iggi/static/media/Gallery-9.f2fcec10.jpg",
+    "static/media/App.scss": "/iggi/static/media/background-1.263bc253.jpg",
+    "static/media/background-2.0afa90b1.jpg": "/iggi/static/media/background-2.0afa90b1.jpg",
+    "static/media/background-3.56766cc5.jpg": "/iggi/static/media/background-3.56766cc5.jpg",
+    "static/media/background-4.749d8b9b.jpg": "/iggi/static/media/background-4.749d8b9b.jpg",
+    "static/media/background-5.4b51bb3b.jpg": "/iggi/static/media/background-5.4b51bb3b.jpg",
+    "static/media/frame-1.145600a0.png": "/iggi/static/media/frame-1.145600a0.png",
+    "static/media/frame-2.e7102f29.png": "/iggi/static/media/frame-2.e7102f29.png",
+    "static/media/logo.1035a7bc.png": "/iggi/static/media/logo.1035a7bc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dae27a2.js",
+    "static/js/2.ee83aea5.chunk.js",
+    "static/css/main.58709263.chunk.css",
+    "static/js/main.5153addf.chunk.js"
+  ]
+}
